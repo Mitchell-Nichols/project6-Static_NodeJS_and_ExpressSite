@@ -1,0 +1,42 @@
+{ "projects":[
+    {"id": 0,
+    "project_name": "A Random Quote Generator",
+    "description": "Basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "live_link": "https://mitchell-nichols.github.io/project1_random-quotes/",
+    "github_link": "https://github.com/Mitchell-Nichols/project1_random-quotes.git",
+    "image_urls": ["/static/images/randomPic.png", "/static/images/randomPic_2.png", "/static/images/randomPic_3.png"]},
+    
+    {"id": 1,
+    "project_name": "Gallery Application",
+    "description": "Data Pagination and Filtering: Displaying a large amount of data on a web page, like a list of 200 movie titles or 400 products, can overwhelm a user with too much information at once. A common solution is to create separate “pages” that each display a small portion of the data. In this project, display several “pages” of student data that the user can easily navigate and view.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "live_link": "http://mitchell-nichols.github.io/gallery-app/",
+    "github_link": "http://github.com/Mitchell-Nichols/gallery-app.git",
+    "image_urls": ["/static/images/galleryPic.png", "/static/images/galleryPic_2.png", "/static/images/galleryPic_3.png"]},
+    
+    {"id": 2,
+    "project_name": "Interactive Form",
+    "description": "Enhance a form so that it’s engaging, interactive, and easy to use. Form validation.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "live_link": "http://mitchell-nichols.github.io/project3-interactive-form/",
+    "github_link": "http://github.com/Mitchell-Nichols/project3-interactive-form.git",
+    "image_urls": ["/static/images/interactiveFormPic.png", "/static/images/interactiveFormPic_2.png", "/static/images/interactiveFormPic_3.png"]},
+
+    {"id": 3,
+    "project_name": "Phrase Hunter",
+    "description": "Create a browser-based, word guessing game: Phrase Hunter. Use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "live_link": "https://mitchell-nichols.github.io/Project-4-OOP-Game-Show/",
+    "github_link": "http://github.com/Mitchell-Nichols/Project-4-OOP-Game-Show.git",
+    "image_urls": ["/static/images/phraseHunterPic.png", "/static/images/phraseHunterPic_2.png", "/static/images/phraseHunterPic_3.png"]},
+    
+    {"id": 4,
+    "project_name": "Public API request",
+    "description": "Create an employee directory by communicating with a third-party API (Application Programming Interface).",
+    "technologies": ["HTML", "CSS", "JavaScript", "JQuery"],
+    "live_link": "http://mitchell-nichols.github.io/project5-public_API_requests/",
+    "github_link": "http://github.com/Mitchell-Nichols/project5-public_API_requests.git",
+    "image_urls": ["/static/images/publicAPIRequests.png", "/static/images/publicAPIRequests_2.png", "/static/images/publicAPIRequests_3.png"]}
+    ] 
+}

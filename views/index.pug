@@ -1,0 +1,21 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    h1 Hey, Future Employers
+
+    p The projects I have developed during my Full Stack JavaScript bootcamp at 
+      a(href="https://teamtreehouse.com/") TreeHouse
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+
+      each unit in projects
+        .cell
+          a(href=`/project/${unit.id}`)
+            img.thumbnail(src=`${unit.image_urls[0]}`, alt=`${unit.project_name}`)
+            h5 #{unit.project_name}
+
